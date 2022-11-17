@@ -5,7 +5,7 @@ seting firebase buka firebase dan ...
 add /android/gradle.properties:
     -org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
 add firebase.json on root
-    -doc https://rnfirebase.io/
+    -doc https://rnfirebase.io/ gettingstarted
 
 install 
     -yarn add @react-native-firebase/messaging
