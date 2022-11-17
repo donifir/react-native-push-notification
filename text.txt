@@ -21,7 +21,7 @@ https://medium.com/android-school/test-fcm-notification-with-postman-f91ba08aacc
 
 buka postman ambil key dari firabase dari opsi 
 header postman
--setting project firebase->cloud messaging->generate key ->paste ke postman cara mendapatkan key (https://documentation.onesignal.com/docs/generate-a-google-server-api-key)
+-setting project firebase->cloud messaging (aktifkan dulu)->generate key ->paste ke postman cara mendapatkan key (https://documentation.onesignal.com/docs/generate-a-google-server-api-key)
 
 body 
 -copas dari website diatas
