@@ -1,3 +1,4 @@
+seting firebase buka firebase dan ...
 -ambil data dari main-androidManifest -> ambil nama pakckage app ""
 -nama package ditaruh di project firebase android
 
